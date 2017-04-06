@@ -4,8 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharpFundamentals {
-    class GradeBook {
+namespace Grades {
+
+    public class GradeBook {
         List<float> grades;
 
         public GradeBook() {

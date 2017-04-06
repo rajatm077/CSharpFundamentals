@@ -1,0 +1,8 @@
+D:\MVC\c-sharp\CSharpFundamentals\Grades.Test\bin\Debug\Grades.Test.dll
+D:\MVC\c-sharp\CSharpFundamentals\Grades.Test\bin\Debug\Grades.Test.pdb
+D:\MVC\c-sharp\CSharpFundamentals\Grades.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\MVC\c-sharp\CSharpFundamentals\Grades.Test\obj\Debug\Grades.Test.csprojResolveAssemblyReference.cache
+D:\MVC\c-sharp\CSharpFundamentals\Grades.Test\obj\Debug\Grades.Test.dll
+D:\MVC\c-sharp\CSharpFundamentals\Grades.Test\obj\Debug\Grades.Test.pdb
+D:\MVC\c-sharp\CSharpFundamentals\Grades.Test\bin\Debug\CSharpFundamentals.exe
+D:\MVC\c-sharp\CSharpFundamentals\Grades.Test\bin\Debug\CSharpFundamentals.pdb

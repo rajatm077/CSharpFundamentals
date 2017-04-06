@@ -1,6 +1,6 @@
-D:\MVC\c-sharp\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe.config
-D:\MVC\c-sharp\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe
 D:\MVC\c-sharp\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.pdb
 D:\MVC\c-sharp\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.csprojResolveAssemblyReference.cache
-D:\MVC\c-sharp\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.exe
 D:\MVC\c-sharp\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.pdb
+D:\MVC\c-sharp\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe.config
+D:\MVC\c-sharp\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe
+D:\MVC\c-sharp\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.exe
